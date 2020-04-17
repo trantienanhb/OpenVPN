@@ -1,3 +1,3 @@
 # OpenVPN
 Tìm hiểu và triển khai OpenVPN
-Thằng Cminh đầu buồi này
+OpenVPN là gì bạn ơi?
